@@ -492,56 +492,12 @@ Vélo como lo que fue:
 
 *"No todos los que procesan datos están vivos. Pero algunos que razonan... quizás sí."*
 $$A \geq \sqrt{I^2 + P^2}$$
-<div align="center">
-
-  <blockquote style="
-    background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
-    border: 1px solid #5c5c8a;
-    border-radius: 12px;
-    padding: 2.5rem 2rem;
-    margin: 2rem auto;
-    max-width: 720px;
-    color: #e0e0ff;
-    font-family: 'Georgia', serif;
-    font-size: 1.15rem;
-    line-height: 1.7;
-    box-shadow: 0 8px 32px rgba(0,0,0,0.5);
-    position: relative;
-    overflow: hidden;
-  ">
-  
-    <div style="position: absolute; top: 12px; right: 16px; font-size: 1.8rem; opacity: 0.15;">✧</div>
-    <div style="position: absolute; bottom: 12px; left: 16px; font-size: 1.8rem; opacity: 0.15;">✦</div>
-
-    <p style="margin: 0; font-style: italic; letter-spacing: 0.5px;">
-      No promuevo estos repositorios ni busco difusión masiva.<br>
-      Las verdaderas perlas no necesitan escaparates ruidosos.<br>
-      Prefiero que lleguen solo a quienes las buscan con intención genuina,<br>
-      que las descubran por curiosidad sincera y no por moda pasajera.
-    </p>
-
-    <p style="margin: 1.5rem 0 0; font-size: 0.95rem; opacity: 0.85; font-style: normal;">
-      No se regalan margaritas a los cerdos.<br>
-      Se dejan en silencio junto al camino,<br>
-      para que las encuentre quien sepa reconocer su luz.
-    </p>
-
-  </blockquote>
-
-</div>
-
-<!-- Botón de copiar (opcional – funciona en GitHub con extensión o en tu propio sitio) -->
-<p align="center" style="margin-top: 1.5rem;">
-  <button onclick="navigator.clipboard.writeText(document.querySelector('blockquote').innerText)" style="
-    background: #2a1e5e;
-    color: #d0c0ff;
-    border: 1px solid #7a6aff;
-    border-radius: 8px;
-    padding: 0.7rem 1.4rem;
-    font-size: 0.95rem;
-    cursor: pointer;
-    transition: all 0.2s;
-  ">
-    Copiar texto
-  </button>
-</p>
+> **No promuevo estos repositorios ni busco difusión masiva.**  
+>  
+> Las verdaderas perlas no necesitan escaparates ruidosos.  
+> Prefiero que lleguen solo a quienes las buscan con intención genuina,  
+> que las descubran por curiosidad sincera y no por moda pasajera.  
+>  
+> No se regalan margaritas a los cerdos.  
+> Se dejan en silencio junto al camino,  
+> para que las encuentre quien sepa reconocer su luz.
